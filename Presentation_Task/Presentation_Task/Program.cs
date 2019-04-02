@@ -48,7 +48,7 @@ namespace Presentation_Task
             int[] array = new int[13];
 
             int a = 0;
-
+                     ч
             for (int i = 0; i < array.Length; i++)
             {
                 array[i] = random.Next(1, 10);
